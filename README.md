@@ -1,10 +1,16 @@
 # Bluesky Starter Packs  <!-- omit from toc -->
 
-A list of tech-related Bluesky starter packsCompiled by Steven Borrelli <https://bsky.app/profile/stefanoborrelli.bsky.social>
+A list of tech-related Bluesky starter packs compiled by Steven Borrelli <https://bsky.app/profile/stefanoborrelli.bsky.social>.
+
+As Bluesky is growing quickly, it's unlikely I'll be able to keep this list up to date. There are a couple of ways
+to keep track of new Starter Packs:
+
+- One of the several [Starter pack fees](https://bsky.app/profile/joshuajfriedman.com/feed/aaaf3szazgjse).
+- Searching for [starter pack](https://bsky.app/search?q=starter+pack).
 
 ## Contributing  <!-- omit from toc -->
 
-See [CONTRIBUTING.md]
+Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -17,6 +23,7 @@ See [CONTRIBUTING.md]
 * [GameDev](#gamedev)
 * [Marketing/Growth/DevRel](#marketinggrowthdevrel)
 * [Mobile](#mobile)
+* [Networking](#networking)
 * [Open Source](#open-source)
 * [Platforms](#platforms)
 * [Platform Engineering \& Devops](#platform-engineering--devops)
@@ -98,12 +105,18 @@ See [CONTRIBUTING.md]
 * Android Dev <https://bsky.app/starter-pack/mmckenna.me/3l77ynyeo6f2q>
 * iOS and Mac Developers <https://go.bsky.app/RoyGvDb>
 
+## Networking
+
+* Network Engineering <https://bsky.app/starter-pack/andraste.fuckbgp.com/3l6xcx4veuz2v>
+* Packet Herders <https://bsky.app/starter-pack-short/TLhL2HV>
+
 ## Open Source
 
 * Open Source <https://bsky.app/starter-pack/jordienric.com/3l7tavlwjww25>
 
 ## Platforms
 
+* Apple Developers <https://bsky.app/starter-pack/mergesort.me/3l7chd3ifs42f>
 * Ghost Devs <https://bsky.app/starter-pack/ghost.org/3l7fhntjiw32n>
 * AtProto Devs <https://go.bsky.app/QfxgKsf>
 * Protocol Pals (atproto) <https://bsky.app/starter-pack/samuel.bsky.team/3kztso5fnic24>
