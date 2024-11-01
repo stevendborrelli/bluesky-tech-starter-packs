@@ -35,6 +35,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [Stats/Bio/R](#statsbior)
 * [Startups](#startups)
 * [Systems Engineering](#systems-engineering)
+* [Training/Education](#trainingeducation)
 * [WWW](#www)
 
 ## AI, ML & Data
@@ -138,7 +139,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Julia Lang <https://bsky.app/starter-pack-short/GgS24Fv>
 * PowerShell Community <https://go.bsky.app/9ozmoAY>
 * Pythonistas <https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z>
-* Ruby and Rails <https://bsky.app/starter-pack-short/HD2Ty2o>
+* Ruby and Rails <https://bsky.app/starter-pack/joshuawood.net/3kw3olx5gf72m>
 * Rustaceans <https://bsky.app/starter-pack/schmizz.net/3l7l572b6xr2w>
 
 ## Retro Computing
@@ -186,6 +187,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Distributed Systems <https://bsky.app/starter-pack/embano1.mgasch.com/3l7i37p3prf2p>
 * eBPF <https://bsky.app/starter-pack-short/GgS24Fv>
 * Observability <https://bsky.app/starter-pack/brancz.bsky.social/3l7j5vpnytv26>
+
+## Training/Education
+
+* Pluralsight Authors <https://go.bsky.app/8MFcCVm>
 
 ## WWW
 
