@@ -5,8 +5,8 @@ A list of tech-related Bluesky starter packs compiled by Steven Borrelli <https:
 As Bluesky is growing quickly, it's unlikely I'll be able to keep this list up to date. There are a couple of ways
 to keep track of new Starter Packs:
 
-- One of the several [Starter pack fees](https://bsky.app/profile/joshuajfriedman.com/feed/aaaf3szazgjse).
-- Searching for [starter pack](https://bsky.app/search?q=starter+pack).
+* One of the several [Starter pack feeds](https://bsky.app/profile/joshuajfriedman.com/feed/aaaf3szazgjse).
+* Searching for [starter pack](https://bsky.app/search?q=starter+pack).
 
 ## Contributing  <!-- omit from toc -->
 
