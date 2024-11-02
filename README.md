@@ -69,6 +69,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ## Communities
 
 * Diversify Tech's starter pack <https://bsky.app/starter-pack-short/DFvXfF5>
+* Black Tech Peeps <https://bsky.app/starter-pack/aliafonzy.bsky.social/3l6xfjc56jc2m>
 
 ## Conference Related
 
@@ -156,6 +157,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Identity and Access Management <https://bsky.app/starter-pack/rafikidev.bsky.social/3l7ja7gdbdh2k>
 * Hackers <https://go.bsky.app/NRP3ecE>
 * Infosec Bluesky <https://bsky.app/starter-pack/stonking.com/3l7trhx5kbr2u>
+* Cyber starter Pack <https://bsky.app/starter-pack/patrickhowelloneill.com/3l3ef5norol2u>
 
 ## Software Dev
 
