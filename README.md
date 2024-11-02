@@ -63,6 +63,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * AWS Serverless <https://bsky.app/starter-pack-short/DatZhiS>
 * AWS Heros <https://bsky.app/starter-pack-short/EZ7AYrd>
 * Hashicorp Ambassadors <https://go.bsky.app/FEpXrbj>
+* Pulumi <https://bsky.app/starter-pack/ediri.de/3l7xy7rgl2h2n>
 * Infrastructure Engineers <https://bsky.app/profile/pelayoarbues.com/post/3l7nx4mbjta2s>
 
 ## Communities
