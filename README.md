@@ -160,7 +160,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Supply Chain Security <https://bsky.app/starter-pack/puerco.mx/3l7kaztw3vf27>
 * Future of Programming <https://bsky.app/starter-pack/iamwil.bsky.social/3l7lg3xpvzk2g>
 * Functional Programming <https://go.bsky.app/Tkj4hAZ>
-* Legacy Code Menders <https://bsky.app/starter-pack-short/VsEJig>
+* Legacy Code Menders <https://go.bsky.app/7K2QAmW>
 * Software Testing and Quality <https://go.bsky.app/DVX3b4h>
 
 ## Software Engineering
