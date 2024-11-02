@@ -74,6 +74,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * All Things Open 2024 speakers <https://bsky.app/starter-pack/justingarrison.com/3l74pjn6n3d26>
 * Github Stars #githubuniverse <https://bsky.app/starter-pack/jesstemporal.com/3l7ljmricf22o>
+* Nodeconf EU 2024 <https://bsky.app/starter-pack/ruyadorno.bsky.social/3l7xylnqftc2d>
 
 ## DBs & Geo
 
@@ -182,6 +183,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Founders and Bootstrappers <https://bsky.app/starter-pack/joshuawood.net/3l72a55j7kq2s>
 * Indie Saas Founders <https://bsky.app/starter-pack/berksky.bsky.social/3l7dbwlvzap2z>
+* Indie Founders <https://bsky.app/starter-pack-short/T3kv9A8>
 
 ## Systems Engineering
 
@@ -189,6 +191,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Distributed Systems <https://bsky.app/starter-pack/embano1.mgasch.com/3l7i37p3prf2p>
 * eBPF <https://bsky.app/starter-pack-short/GgS24Fv>
 * Observability <https://bsky.app/starter-pack/brancz.bsky.social/3l7j5vpnytv26>
+* Resilience Engineering <https://bsky.app/starter-pack/vonneudeck.com/3l7m7hb7fnp24>
 
 ## Training/Education
 
@@ -207,6 +210,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * CSS <https://go.bsky.app/A6biNib>
 * Thead of Frontend Starter Packs <https://go.bsky.app/hLveAd>
 * Svelte <https://bsky.app/starter-pack-short/QEhPG3P>
+* Vue JS Starter <https://bsky.app/starter-pack/filrakow.ski/3l7syh6aqyk2s>
 * Vuesky JS <https://bsky.app/starter-pack-short/VsEJig>
 * Vue and Nuxtjs Devs <https://bsky.app/starter-pack/thealexlichter.com/3l7px6ilbvf2m>
 * Sia's Frontend Web Performance <https://bsky.app/starter-pack-short/RVWSVqe>
