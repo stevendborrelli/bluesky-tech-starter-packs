@@ -15,13 +15,19 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ## Table of Contents <!-- omit from toc -->
 
 * [AI, ML \& Data](#ai-ml--data)
-* [Cloud, Kubernetes, DevOps](#cloud-kubernetes-devops)
+* [Cloud](#cloud)
+  * [AWS](#aws)
+  * [Azure](#azure)
+  * [Cloudflare](#cloudflare)
+  * [Google Cloud](#google-cloud)
 * [Communities](#communities)
-* [Community Programs](#community-programs)
+* [Corporate Community Programs](#corporate-community-programs)
 * [Conference Related](#conference-related)
-* [DBs \& Geo](#dbs--geo)
+* [DBs, BI, \& Geo](#dbs-bi--geo)
 * [DevEx \& UI](#devex--ui)
 * [GameDev](#gamedev)
+* [Kubernetes \& Cloud Native](#kubernetes--cloud-native)
+* [Infrastructure as Code](#infrastructure-as-code)
 * [Marketing/Growth/DevRel](#marketinggrowthdevrel)
 * [Mobile](#mobile)
 * [Networking](#networking)
@@ -29,6 +35,19 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [Platforms](#platforms)
 * [Platform Engineering \& Devops](#platform-engineering--devops)
 * [Programming Languages](#programming-languages)
+* [Clojure](#clojure)
+  * [.Net](#net)
+  * [Elixir](#elixir)
+  * [Functional Programming](#functional-programming)
+  * [Go](#go)
+  * [Java](#java)
+  * [Julia](#julia)
+  * [Kotlin](#kotlin)
+  * [PowerShell](#powershell)
+  * [Python](#python)
+  * [Ruby and Rails](#ruby-and-rails)
+  * [Rust](#rust)
+  * [Typescript](#typescript)
 * [Retro Computing](#retro-computing)
 * [Security](#security)
 * [Software Dev](#software-dev)
@@ -38,6 +57,9 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [Systems Engineering](#systems-engineering)
 * [Training/Education](#trainingeducation)
 * [WWW](#www)
+  * [React](#react)
+  * [Svelte](#svelte)
+  * [Vue](#vue)
 
 ## AI, ML & Data
 
@@ -52,27 +74,36 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Data Ladies <https://go.bsky.app/5388qNY>
 * RecSys <https://bsky.app/starter-pack-short/F7m9rBy>
 
-## Cloud, Kubernetes, DevOps
+## Cloud
 
-* Cloud Native (k8s heavy) <https://bsky.app/starter-pack-short/RCerxDE>
-* CNCF Ambassadors <https://bsky.app/starter-pack-short/JmYPdtB>
-* CNCF Kubestronauts <https://go.bsky.app/E8JcNAk>
-* Cloudflare Developer Platform <https://go.bsky.app/8nnY28Q>
-* Microsoft Cloud Security & Identity <https://bsky.app/starter-pack-short/FkPKwkK>
-* Azure Kubernetes Service Champs <https://bsky.app/starter-pack/mestredelpino.com/3l7lb4zf7672h>
+* Infrastructure Engineers <https://bsky.app/profile/pelayoarbues.com/post/3l7nx4mbjta2s>
+
+### AWS
+
 * AWS Developer Experience <https://bsky.app/starter-pack/gunnargrosch.com/3l7iniq54362z>
 * AWS Serverless <https://bsky.app/starter-pack-short/DatZhiS>
 * AWS Heros <https://bsky.app/starter-pack-short/EZ7AYrd>
-* Hashicorp Ambassadors <https://go.bsky.app/FEpXrbj>
-* Pulumi <https://bsky.app/starter-pack/ediri.de/3l7xy7rgl2h2n>
-* Infrastructure Engineers <https://bsky.app/profile/pelayoarbues.com/post/3l7nx4mbjta2s>
+
+### Azure
+
+* Azure Kubernetes Service Champs <https://bsky.app/starter-pack/mestredelpino.com/3l7lb4zf7672h>
+* Microsoft Cloud Security & Identity <https://bsky.app/starter-pack-short/FkPKwkK>
+
+### Cloudflare
+
+* Cloudflare Developer Platform <https://go.bsky.app/8nnY28Q>
+
+### Google Cloud
+
+* Google Cloud Developer Relations <https://bsky.app/starter-pack-short/HKkrgZb>
 
 ## Communities
 
 * Diversify Tech's starter pack <https://bsky.app/starter-pack-short/DFvXfF5>
 * Black Tech Peeps <https://bsky.app/starter-pack/aliafonzy.bsky.social/3l6xfjc56jc2m>
+* Women in Tech <https://bsky.app/starter-pack/annaspies.bsky.social/3l7qqknfnm72n>
 
-## Community Programs
+## Corporate Community Programs
 
 * Docker Captains <https://go.bsky.app/TGLWrCC>
 * Microsoft MVPs <https://go.bsky.app/EuKURBU>
@@ -83,13 +114,14 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Github Stars #githubuniverse <https://bsky.app/starter-pack/jesstemporal.com/3l7ljmricf22o>
 * Nodeconf EU 2024 <https://bsky.app/starter-pack/ruyadorno.bsky.social/3l7xylnqftc2d>
 
-## DBs & Geo
+## DBs, BI, & Geo
 
 * PostGIS <https://bsky.app/starter-pack/crunchydata.com/3l7lifgrswr2d>
 * Data People Starter Pack <https://bsky.app/starter-pack-short/8TdEfdK>
 * DuckDB <https://bsky.app/starter-pack/tobilg.com/3l7ggytb2kz2j>
 * Open Source Geospatial <https://bsky.app/starter-pack-short/PGYLmPG>
 * Oracle Folks <https://bsky.app/starter-pack-short/F7m9rBy>
+* Tableau <https://bsky.app/starter-pack/darraghmurray.bsky.social/3l7zwvzcfcc2l>
 
 ## DevEx & UI
 
@@ -103,6 +135,17 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * AAA Game Writers <https://bsky.app/starter-pack/annamegill.com/3l7jfmsxuh42z>
 * Engineers/Programmers in the Gaming Industry <https://bsky.app/starter-pack/timjung.bsky.social/3l77am5e7yg2e>
 * VR Game Devs <https://bsky.app/starter-pack/rafikidev.bsky.social/3l7ja7gdbdh2k>
+
+## Kubernetes & Cloud Native
+
+* Cloud Native <https://bsky.app/starter-pack-short/RCerxDE>
+* CNCF Ambassadors <https://bsky.app/starter-pack-short/JmYPdtB>
+* CNCF Kubestronauts <https://go.bsky.app/E8JcNAk>
+
+## Infrastructure as Code
+
+* Hashicorp Ambassadors <https://go.bsky.app/FEpXrbj>
+* Pulumi <https://bsky.app/starter-pack/ediri.de/3l7xy7rgl2h2n>
 
 ## Marketing/Growth/DevRel
 
@@ -139,18 +182,62 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## Programming Languages
 
+## Clojure
+
+* Bluesky Clojure Community <https://bsky.app/starter-pack-short/Mj51mWX>
+
+### .Net
+
 * dotnet <https://bsky.app/starter-pack/bensampica.com/3l77ymcm23h25>
+
+### Elixir
+
 * Elixir devs <https://bsky.app/starter-pack-short/HL9mNDS>
+
+### Functional Programming
+
 * Functional Programming <https://go.bsky.app/Tkj4hAZ>
+
+### Go
+
 * Gophers <https://bsky.app/starter-pack/mvdan.cc/3l7lat3zdug2o>
 * Go Contributors <https://bsky.app/starter-pack/mvdan.cc/3l7lat3zdug2o>
+
+### Java
+
 * Java Champions <https://bsky.app/profile/myfear.com/lists/3l6ynlbjx5e2r>
 * Java and JVM <https://bsky.app/starter-pack-short/F7m9rBy>
+
+### Julia
+
 * Julia Lang <https://bsky.app/starter-pack-short/GgS24Fv>
+
+### Kotlin
+
+* Kotlin Multiplatform <https://bsky.app/starter-pack-short/2oR84o6>
+
+### PowerShell
+
 * PowerShell Community <https://go.bsky.app/9ozmoAY>
+
+### Python
+
+* Python <https://bsky.app/starter-pack/savannah.dev/3l7y3twh7xm2l>
+* Pyladies <https://bsky.app/starter-pack/cosima.bsky.social/3l7zmdn5tsp26>
 * Pythonistas <https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z>
+* Django web framework <https://bsky.app/starter-pack/adamghill.com/3l6yeskolfm27>
+
+### Ruby and Rails
+
 * Ruby and Rails <https://bsky.app/starter-pack/joshuawood.net/3kw3olx5gf72m>
+
+### Rust
+
 * Rustaceans <https://bsky.app/starter-pack/schmizz.net/3l7l572b6xr2w>
+
+### Typescript
+
+* OSS Typescript Maintainers <https://bsky.app/starter-pack-short/84ChefN>
 
 ## Retro Computing
 
@@ -207,6 +294,8 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## WWW
 
+* Sia's 11ty <https://bsky.app/starter-pack/sia.codes/3l7svus2jcz2b>
+* Sia's Frontend Web Performance <https://bsky.app/starter-pack-short/RVWSVqe>
 * APIs you won't hate <https://bsky.app/starter-pack-short/BNkzSpM>
 * Angular <https://bsky.app/profile/benjystanton.bsky.social/post/3l73f5ckmw52a>
 * Android Dev feed <https://bsky.app/profile/did:plc:ggmzqo5qmqt53zu2ep4vdfhe/feed/aaam4fpfvsnie>
@@ -214,11 +303,22 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Front End and Web Dev <https://go.bsky.app/8nnY28Q>
 * Laravel Friends <https://bsky.app/starter-pack/mijustin.bsky.social/3l75rwvv4ii24>
 * PHP / Laravel Dev Tools <https://go.bsky.app/PLks8fY>
-* React Native <https://bsky.app/starter-pack/mooreds.com/3l7jlxbxam32s>
 * CSS <https://go.bsky.app/A6biNib>
+* Retro Webdev <https://bsky.app/starter-pack/benv.ca/3l7y3p7q2vs2q>
 * Thead of Frontend Starter Packs <https://go.bsky.app/hLveAd>
+
+### React
+
+* React Native <https://bsky.app/starter-pack/mooreds.com/3l7jlxbxam32s>
+* Remix/React Router adjacent <https://bsky.app/starter-pack/ralexanderson.com/3l74a3jou7h2k>
+
+### Svelte
+
+* Svelte Fam <https://bsky.app/starter-pack/stordahl.dev/3l7vxqtis6i2q>
 * Svelte <https://bsky.app/starter-pack-short/QEhPG3P>
+
+### Vue
+
 * Vue JS Starter <https://bsky.app/starter-pack/filrakow.ski/3l7syh6aqyk2s>
 * Vuesky JS <https://bsky.app/starter-pack-short/VsEJig>
 * Vue and Nuxtjs Devs <https://bsky.app/starter-pack/thealexlichter.com/3l7px6ilbvf2m>
-* Sia's Frontend Web Performance <https://bsky.app/starter-pack-short/RVWSVqe>
