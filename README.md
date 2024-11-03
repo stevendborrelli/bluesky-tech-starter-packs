@@ -17,6 +17,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [AI, ML \& Data](#ai-ml--data)
 * [Cloud, Kubernetes, DevOps](#cloud-kubernetes-devops)
 * [Communities](#communities)
+* [Community Programs](#community-programs)
 * [Conference Related](#conference-related)
 * [DBs \& Geo](#dbs--geo)
 * [DevEx \& UI](#devex--ui)
@@ -70,6 +71,11 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Diversify Tech's starter pack <https://bsky.app/starter-pack-short/DFvXfF5>
 * Black Tech Peeps <https://bsky.app/starter-pack/aliafonzy.bsky.social/3l6xfjc56jc2m>
+
+## Community Programs
+
+* Docker Captains <https://go.bsky.app/TGLWrCC>
+* Microsoft MVPs <https://go.bsky.app/EuKURBU>
 
 ## Conference Related
 
