@@ -260,6 +260,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Functional Programming <https://go.bsky.app/Tkj4hAZ>
 * Legacy Code Menders <https://go.bsky.app/7K2QAmW>
 * Software Testing and Quality <https://go.bsky.app/DVX3b4h>
+* Software Development <https://go.bsky.app/Jn1NbRv>
 
 ## Software Engineering
 
