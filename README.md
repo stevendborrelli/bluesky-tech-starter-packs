@@ -2,8 +2,9 @@
 
 A list of tech-related Bluesky starter packs compiled by Steven Borrelli <https://bsky.app/profile/stefanoborrelli.bsky.social>.
 
-As Bluesky is growing quickly, it's unlikely I'll be able to keep this list up to date. There are a couple of ways
-to keep track of new Starter Packs:
+Looking for more stater packs?
+
+You can search for starter packs at the [Bluesky Directory](https://blueskydirectory.com/starter-packs/all).
 
 * One of the several [Starter pack feeds](https://bsky.app/profile/joshuajfriedman.com/feed/aaaf3szazgjse).
 * Searching for [starter pack](https://bsky.app/search?q=starter+pack).
@@ -81,7 +82,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### AWS
 
 * AWS Developer Experience <https://bsky.app/starter-pack/gunnargrosch.com/3l7iniq54362z>
-* AWS Serverless <https://bsky.app/starter-pack-short/DatZhiS>
+* AWS Serverless <https://bsky.app/starter-pack/tobilg.com/3l7gkycyvc52t>
 * AWS Heros <https://bsky.app/starter-pack-short/EZ7AYrd>
 
 ### Azure
@@ -117,6 +118,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ## DBs, BI, & Geo
 
 * PostGIS <https://bsky.app/starter-pack/crunchydata.com/3l7lifgrswr2d>
+* Postgres People <https://bsky.app/starter-pack/craigkerstiens.com/3l72fsuwbnu26>
 * Data People Starter Pack <https://bsky.app/starter-pack-short/8TdEfdK>
 * DuckDB <https://bsky.app/starter-pack/tobilg.com/3l7ggytb2kz2j>
 * Open Source Geospatial <https://bsky.app/starter-pack-short/PGYLmPG>
@@ -139,8 +141,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ## Kubernetes & Cloud Native
 
 * Cloud Native <https://bsky.app/starter-pack-short/RCerxDE>
-* CNCF Ambassadors <https://bsky.app/starter-pack-short/JmYPdtB>
+* CNCF Ambassadors <https://bsky.app/starter-pack/starefossen.bsky.social/3l73umo3tyl27>
 * CNCF Kubestronauts <https://go.bsky.app/E8JcNAk>
+* CNCF Platform Working Group <https://bsky.app/starter-pack/me.nzen.ski/3la7hu6g3aw2d>
+* Kubernetes Engineering <https://bsky.app/starter-pack/ahmet.dev/3l7tozhy6s42f>
 
 ## Infrastructure as Code
 
@@ -200,8 +204,9 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ### Go
 
-* Gophers <https://bsky.app/starter-pack/mvdan.cc/3l7lat3zdug2o>
 * Go Contributors <https://bsky.app/starter-pack/mvdan.cc/3l7lat3zdug2o>
+* Gophers <https://bsky.app/starter-pack/mvdan.cc/3l7lat3zdug2o>
+* Gophers in the Bluesky <https://bsky.app/starter-pack/dario.cat/3la7ixru2fj2w>
 
 ### Java
 
@@ -233,11 +238,13 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ### Rust
 
+* Rust Devs <https://bsky.app/starter-pack/jameseastham.co.uk/3la6thx4xbq2l>
 * Rustaceans <https://bsky.app/starter-pack/schmizz.net/3l7l572b6xr2w>
 
 ### Typescript
 
 * OSS Typescript Maintainers <https://bsky.app/starter-pack-short/84ChefN>
+* Typescript and Static Analysis <https://bsky.app/starter-pack/joshuakgoldberg.com/3la7gv7wa4722>
 
 ## Retro Computing
 
@@ -306,6 +313,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * CSS <https://go.bsky.app/A6biNib>
 * Retro Webdev <https://bsky.app/starter-pack/benv.ca/3l7y3p7q2vs2q>
 * Thead of Frontend Starter Packs <https://go.bsky.app/hLveAd>
+* Web Design Inspiration <https://bsky.app/starter-pack/matamo.dev/3la7fif4zh42y>
 
 ### React
 
