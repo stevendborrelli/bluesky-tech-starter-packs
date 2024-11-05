@@ -165,7 +165,8 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## Open Source
 
-* Open Source <https://bsky.app/starter-pack/jordienric.com/3l7tavlwjww25>
+* Open Source Starter Pack <https://go.bsky.app/BrzaZ72>
+* Open Sourcerers <https://bsky.app/starter-pack/jordienric.com/3l7tavlwjww25>
 * The World Of Open Source <https://bsky.app/starter-pack/kelset.dev/3l7vrkvoxh225>
 
 ## Platforms
