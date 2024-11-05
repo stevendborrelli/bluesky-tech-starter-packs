@@ -169,7 +169,8 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## Open Source
 
-* Open Source <https://bsky.app/starter-pack/jordienric.com/3l7tavlwjww25>
+* Open Source Starter Pack <https://go.bsky.app/BrzaZ72>
+* Open Sourcerers <https://bsky.app/starter-pack/jordienric.com/3l7tavlwjww25>
 * The World Of Open Source <https://bsky.app/starter-pack/kelset.dev/3l7vrkvoxh225>
 
 ## Platforms
@@ -267,6 +268,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Functional Programming <https://go.bsky.app/Tkj4hAZ>
 * Legacy Code Menders <https://go.bsky.app/7K2QAmW>
 * Software Testing and Quality <https://go.bsky.app/DVX3b4h>
+* Software Development <https://go.bsky.app/Jn1NbRv>
 
 ## Software Engineering
 
