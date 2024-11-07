@@ -84,6 +84,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * AWS Developer Experience <https://bsky.app/starter-pack/gunnargrosch.com/3l7iniq54362z>
 * AWS Serverless <https://bsky.app/starter-pack/tobilg.com/3l7gkycyvc52t>
 * AWS Heros <https://bsky.app/starter-pack-short/EZ7AYrd>
+* AWS Community Builders <https://go.bsky.app/NFaJFWC>
 
 ### Azure
 
