@@ -212,7 +212,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ### Java
 
-* Java Champions <https://bsky.app/profile/myfear.com/lists/3l6ynlbjx5e2r>
+* Java Champions <https://bsky.app/starter-pack/chrzanowski.info/3la5a2ojmnw2r>
 * Java and JVM <https://bsky.app/starter-pack-short/F7m9rBy>
 
 ### Julia
