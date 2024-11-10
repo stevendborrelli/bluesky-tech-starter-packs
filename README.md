@@ -157,6 +157,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Tech Marketing <https://bsky.app/starter-pack-short/VrJki2f>
 * DevRel/DX Engineers & Developer Advocates <https://bsky.app/starter-pack/ladyofcode.com/3l7l3savfr62w>
 * DevRel <https://bsky.app/starter-pack-short/3vZbY9h>
+* JetBrains Developer Advocates <https://bsky.app/starter-pack/chrzanowski.info/3la2ubcmclv2o>
 
 ## Mobile
 
