@@ -50,7 +50,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
   * [Ruby and Rails](#ruby-and-rails)
   * [Rust](#rust)
   * [Typescript](#typescript)
-* [Public Interest/Criticism](#public-interestcriticism)
+* [Policy/Public Interest/Criticism](#policypublic-interestcriticism)
 * [Retro Computing](#retro-computing)
 * [Security](#security)
 * [Software Dev](#software-dev)
@@ -77,6 +77,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * AI Researchers <https://go.bsky.app/E8JcNAk>
 * Data Ladies <https://go.bsky.app/5388qNY>
 * RecSys <https://bsky.app/starter-pack-short/F7m9rBy>
+* Robotics & AI <https://bsky.app/starter-pack/cpaxton.bsky.social/3lampx4vqrv24>
 
 ## Cloud
 
@@ -91,6 +92,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ### Azure
 
+* Azure Bicep <https://bsky.app/starter-pack/rios.engineer/3laoclx5ddm2q>
 * Azure Kubernetes Service Champs <https://bsky.app/starter-pack/mestredelpino.com/3l7lb4zf7672h>
 * Microsoft Cloud Security & Identity <https://bsky.app/starter-pack-short/FkPKwkK>
 
@@ -133,6 +135,8 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * UI <https://bsky.app/profile/joebell.studio/post/3l7s7pjyk5v2w>
 * UX <https://bsky.app/starter-pack/spavel.bsky.social/3kzmdo5tt4a2c>
+
+
 
 ## GameDev
 
@@ -205,6 +209,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### .Net
 
 * dotnet <https://bsky.app/starter-pack/bensampica.com/3l77ymcm23h25>
+* F# and dotnet folks <https://bsky.app/starter-pack/tunaxor.me/3l7vgqm56z42s>
 
 ### Elixir
 
@@ -257,13 +262,20 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ### Typescript
 
+* Effect-TS Community <https://bsky.app/starter-pack/maikelkrause.bsky.social/3lalqx3qepb2r>
 * OSS Typescript Maintainers <https://bsky.app/starter-pack-short/84ChefN>
 * Typescript and Static Analysis <https://bsky.app/starter-pack/joshuakgoldberg.com/3la7gv7wa4722>
 
-## Public Interest/Criticism
+## Policy/Public Interest/Criticism
 
+* Algorithmic decision-making <https://bsky.app/starter-pack/jessicahullman.bsky.social/3l3tsz4gzk52t>
+* Counter Tech Power Grabs <https://bsky.app/starter-pack/remmelt.bsky.social/3lanjabtnk22m>
 * Critical Tech <https://bsky.app/starter-pack/parismarx.bsky.social/3lamkmrv72w2q>
+* Data Journalism <https://bsky.app/starter-pack/martinstabe.bsky.social/3l373eyo7zq2u>
+* Open Data <https://bsky.app/starter-pack/go-opendata.bsky.social/3laof5cm67q2m>
+* Privacy by Design <https://bsky.app/starter-pack/stribs.bsky.social/3laokvt2u7u24>
 * Public Interest Technology <https://bsky.app/starter-pack/merbroussard.bsky.social/3lamcen2niz2x>
+* Tech Skeptics <https://bsky.app/starter-pack/markscrivens.bsky.social/3landpgddiv2l>
 
 ## Retro Computing
 
@@ -277,6 +289,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Hackers <https://go.bsky.app/NRP3ecE>
 * Infosec Bluesky <https://bsky.app/starter-pack/stonking.com/3l7trhx5kbr2u>
 * Cyber starter Pack <https://bsky.app/starter-pack/patrickhowelloneill.com/3l3ef5norol2u>
+* Security and Security Adjacent <https://bsky.app/starter-pack/sanitybit.com/3l6mkk23cpn24>
 
 ## Software Dev
 
@@ -300,6 +313,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Bioconductor Bioinformatics #rstats <https://bsky.app/starter-pack-short/Ha64Gmv>
 * ggplot2 <https://bsky.app/starter-pack-short/J98GoyE>
 * Jeremy Allen's list of Starter Packs <https://bsky.app/profile/jeremy-data.bsky.social/post/3l7gsqpmup72q>
+* rOpenSci <https://bsky.app/starter-pack/noamross.net/3land3z3fez2z>
 * Rstats Starter Pack <https://bsky.app/starter-pack/jeremy-data.bsky.social/3l6x3agttsg2r>
 * Shiny Devs <https://bsky.app/starter-pack/grrrck.xyz/3lahi4wmmkq2h>
 
