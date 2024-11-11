@@ -32,11 +32,12 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [Marketing/Growth/DevRel](#marketinggrowthdevrel)
 * [Mobile](#mobile)
 * [Networking](#networking)
+* [Observability](#observability)
 * [Open Source](#open-source)
 * [Platforms](#platforms)
 * [Platform Engineering \& Devops](#platform-engineering--devops)
 * [Programming Languages](#programming-languages)
-* [Clojure](#clojure)
+  * [Clojure](#clojure)
   * [.Net](#net)
   * [Elixir](#elixir)
   * [Functional Programming](#functional-programming)
@@ -49,6 +50,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
   * [Ruby and Rails](#ruby-and-rails)
   * [Rust](#rust)
   * [Typescript](#typescript)
+* [Public Interest/Criticism](#public-interestcriticism)
 * [Retro Computing](#retro-computing)
 * [Security](#security)
 * [Software Dev](#software-dev)
@@ -56,6 +58,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [Stats/Bio/R](#statsbior)
 * [Startups](#startups)
 * [Systems Engineering](#systems-engineering)
+* [Tech Writing](#tech-writing)
 * [Training/Education](#trainingeducation)
 * [WWW](#www)
   * [React](#react)
@@ -70,7 +73,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Health, AI, and Informatics <https://bsky.app/starter-pack-short/r5eVvT>
 * Nice Data People <https://bsky.app/starter-pack/arynn.bsky.social/3l7ln7qrrj22b>
 * Google DeepMind <https://bsky.app/starter-pack/sharky6000.bsky.social/3l7kt6xwjqe2n>
-* ML/AI Researchers <https://go.bsky.app/gPKeHz>
+* ML/AI Researchers <https://bsky.app/starter-pack/pelayoarbues.com/3l7isybcp522s>
 * AI Researchers <https://go.bsky.app/E8JcNAk>
 * Data Ladies <https://go.bsky.app/5388qNY>
 * RecSys <https://bsky.app/starter-pack-short/F7m9rBy>
@@ -142,6 +145,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ## Kubernetes & Cloud Native
 
 * Cloud Native <https://bsky.app/starter-pack-short/RCerxDE>
+* Cloud Native Projects <https://bsky.app/starter-pack-short/GbZUjph>
 * CNCF Ambassadors <https://bsky.app/starter-pack/starefossen.bsky.social/3l73umo3tyl27>
 * CNCF Kubestronauts <https://go.bsky.app/E8JcNAk>
 * CNCF Platform Working Group <https://bsky.app/starter-pack/me.nzen.ski/3la7hu6g3aw2d>
@@ -157,6 +161,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Tech Marketing <https://bsky.app/starter-pack-short/VrJki2f>
 * DevRel/DX Engineers & Developer Advocates <https://bsky.app/starter-pack/ladyofcode.com/3l7l3savfr62w>
 * DevRel <https://bsky.app/starter-pack-short/3vZbY9h>
+* Developer Relations <https://bsky.app/starter-pack-short/VDeVSBW>
 * JetBrains Developer Advocates <https://bsky.app/starter-pack/chrzanowski.info/3la2ubcmclv2o>
 
 ## Mobile
@@ -169,10 +174,14 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Network Engineering <https://bsky.app/starter-pack/andraste.fuckbgp.com/3l6xcx4veuz2v>
 * Packet Herders <https://bsky.app/starter-pack-short/TLhL2HV>
 
+## Observability
+
+* Prometheus  <https://bsky.app/starter-pack/metalmatze.de/3la6tkzai4b2n>
+
 ## Open Source
 
 * Open Source Starter Pack <https://go.bsky.app/BrzaZ72>
-* Open Sourcerers <https://bsky.app/starter-pack/jordienric.com/3l7tavlwjww25>
+* Open Source <https://bsky.app/starter-pack/jordienric.com/3l7tavlwjww25>
 * The World Of Open Source <https://bsky.app/starter-pack/kelset.dev/3l7vrkvoxh225>
 
 ## Platforms
@@ -189,7 +198,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## Programming Languages
 
-## Clojure
+### Clojure
 
 * Bluesky Clojure Community <https://bsky.app/starter-pack-short/Mj51mWX>
 
@@ -231,13 +240,15 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### Python
 
 * Python <https://bsky.app/starter-pack/savannah.dev/3l7y3twh7xm2l>
-* Pyladies <https://bsky.app/starter-pack/cosima.bsky.social/3l7zmdn5tsp26>
+* Pyladies <https://bsky.app/starter-pack/cosima.bsky.social/3l7zmdn5tsp26
 * Pythonistas <https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z>
+* Python Software Foundation and Friends <https://bsky.app/starter-pack/monorepo.bsky.social/3lacjuhrjlp2o>
 * Django web framework <https://bsky.app/starter-pack/adamghill.com/3l6yeskolfm27>
 
 ### Ruby and Rails
 
 * Ruby and Rails <https://bsky.app/starter-pack/joshuawood.net/3kw3olx5gf72m>
+* Built with Ruby and Rails <https://bsky.app/starter-pack/bradgessler.com/3lajohae7te2c>
 
 ### Rust
 
@@ -248,6 +259,11 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * OSS Typescript Maintainers <https://bsky.app/starter-pack-short/84ChefN>
 * Typescript and Static Analysis <https://bsky.app/starter-pack/joshuakgoldberg.com/3la7gv7wa4722>
+
+## Public Interest/Criticism
+
+* Critical Tech <https://bsky.app/starter-pack/parismarx.bsky.social/3lamkmrv72w2q>
+* Public Interest Technology <https://bsky.app/starter-pack/merbroussard.bsky.social/3lamcen2niz2x>
 
 ## Retro Computing
 
@@ -266,6 +282,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Devtools FM <https://bsky.app/starter-pack/devtools.fm/3l7uo2usby32x>
 * Supply Chain Security <https://bsky.app/starter-pack/puerco.mx/3l7kaztw3vf27>
+* Future of Coding <https://bsky.app/starter-pack/watwa.re/3lahegmecyl2b>
 * Future of Programming <https://bsky.app/starter-pack/iamwil.bsky.social/3l7lg3xpvzk2g>
 * Functional Programming <https://go.bsky.app/Tkj4hAZ>
 * Legacy Code Menders <https://go.bsky.app/7K2QAmW>
@@ -284,6 +301,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * ggplot2 <https://bsky.app/starter-pack-short/J98GoyE>
 * Jeremy Allen's list of Starter Packs <https://bsky.app/profile/jeremy-data.bsky.social/post/3l7gsqpmup72q>
 * Rstats Starter Pack <https://bsky.app/starter-pack/jeremy-data.bsky.social/3l6x3agttsg2r>
+* Shiny Devs <https://bsky.app/starter-pack/grrrck.xyz/3lahi4wmmkq2h>
 
 ## Startups
 
@@ -298,6 +316,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * eBPF <https://bsky.app/starter-pack-short/GgS24Fv>
 * Observability <https://bsky.app/starter-pack/brancz.bsky.social/3l7j5vpnytv26>
 * Resilience Engineering <https://bsky.app/starter-pack/vonneudeck.com/3l7m7hb7fnp24>
+
+## Tech Writing
+
+* Technical Writers <https://bsky.app/starter-pack/chrissycodes.bsky.social/3lai47ekkon2o>
 
 ## Training/Education
 
