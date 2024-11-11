@@ -136,8 +136,6 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * UI <https://bsky.app/profile/joebell.studio/post/3l7s7pjyk5v2w>
 * UX <https://bsky.app/starter-pack/spavel.bsky.social/3kzmdo5tt4a2c>
 
-
-
 ## GameDev
 
 * Women Leaders in Games <https://bsky.app/starter-pack/thoughtrise.bsky.social/3l7lf3thjxp2i>
@@ -245,7 +243,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### Python
 
 * Python <https://bsky.app/starter-pack/savannah.dev/3l7y3twh7xm2l>
-* Pyladies <https://bsky.app/starter-pack/cosima.bsky.social/3l7zmdn5tsp26
+* Pyladies <https://bsky.app/starter-pack/cosima.bsky.social/3l7zmdn5tsp26>
 * Pythonistas <https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z>
 * Python Software Foundation and Friends <https://bsky.app/starter-pack/monorepo.bsky.social/3lacjuhrjlp2o>
 * Django web framework <https://bsky.app/starter-pack/adamghill.com/3l6yeskolfm27>
