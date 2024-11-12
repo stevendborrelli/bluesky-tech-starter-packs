@@ -49,6 +49,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
   * [Python](#python)
   * [Ruby and Rails](#ruby-and-rails)
   * [Rust](#rust)
+  * [Scala](#scala)
   * [Typescript](#typescript)
 * [Policy/Public Interest/Criticism](#policypublic-interestcriticism)
 * [Retro Computing](#retro-computing)
@@ -257,6 +258,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Rust Devs <https://bsky.app/starter-pack/jameseastham.co.uk/3la6thx4xbq2l>
 * Rustaceans <https://bsky.app/starter-pack/schmizz.net/3l7l572b6xr2w>
+
+### Scala
+
+* Scala <https://bsky.app/starter-pack/salarrahmanian.bsky.social/3laq4c2o4a42a>
 
 ### Typescript
 
