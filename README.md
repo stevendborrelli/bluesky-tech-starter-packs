@@ -179,6 +179,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## Observability
 
+* Grafanistas <https://bsky.app/starter-pack/zerokspot.com/3lar442j43t2z>
 * Prometheus  <https://bsky.app/starter-pack/metalmatze.de/3la6tkzai4b2n>
 
 ## Open Source
@@ -209,6 +210,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * dotnet <https://bsky.app/starter-pack/bensampica.com/3l77ymcm23h25>
 * F# and dotnet folks <https://bsky.app/starter-pack/tunaxor.me/3l7vgqm56z42s>
+* .Net C# developer Friends <https://bsky.app/starter-pack/chriswoodruff.bsky.social/3laqbohkbeh2d>
 
 ### Elixir
 
