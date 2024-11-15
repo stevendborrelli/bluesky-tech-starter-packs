@@ -22,6 +22,9 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
   * [Cloudflare](#cloudflare)
   * [Google Cloud](#google-cloud)
 * [Communities](#communities)
+  * [Africa](#africa)
+  * [Europe](#europe)
+  * [North America](#north-america)
 * [Corporate Community Programs](#corporate-community-programs)
 * [Conference Related](#conference-related)
 * [DBs, BI, \& Geo](#dbs-bi--geo)
@@ -32,6 +35,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [Marketing/Growth/DevRel](#marketinggrowthdevrel)
 * [Mobile](#mobile)
 * [Networking](#networking)
+* [News](#news)
 * [Observability](#observability)
 * [Open Source](#open-source)
 * [Platforms](#platforms)
@@ -45,6 +49,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
   * [Java](#java)
   * [Julia](#julia)
   * [Kotlin](#kotlin)
+  * [Nix/NixOS](#nixnixos)
   * [PowerShell](#powershell)
   * [Python](#python)
   * [Ruby and Rails](#ruby-and-rails)
@@ -61,7 +66,9 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [Systems Engineering](#systems-engineering)
 * [Tech Writing](#tech-writing)
 * [Training/Education](#trainingeducation)
+* [Virtual Reality](#virtual-reality)
 * [WWW](#www)
+  * [WWW-related News](#www-related-news)
   * [React](#react)
   * [Svelte](#svelte)
   * [Vue](#vue)
@@ -109,7 +116,21 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Diversify Tech's starter pack <https://bsky.app/starter-pack-short/DFvXfF5>
 * Black Tech Peeps <https://bsky.app/starter-pack/aliafonzy.bsky.social/3l6xfjc56jc2m>
+* Black Tech Voices <https://bsky.app/starter-pack/nerdyandnoteworthy.bsky.social/3law262cfob2y>
+* Black Women in Tech <https://bsky.app/starter-pack/minamarkh.am/3laqyfejjzf2l>
 * Women in Tech <https://bsky.app/starter-pack/annaspies.bsky.social/3l7qqknfnm72n>
+
+### Africa
+
+* ZA Hackers <https://bsky.app/starter-pack/singe.bsky.social/3lau2uti7rh27>
+
+### Europe
+
+* London Tech Community <https://bsky.app/starter-pack/hellonehha.bsky.social/3lavoqqajkt23>
+
+### North America
+
+* Kansas City Tech Community <https://bsky.app/starter-pack/jerdog.dev/3lavvs6vyuj2j>
 
 ## Corporate Community Programs
 
@@ -177,6 +198,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Network Engineering <https://bsky.app/starter-pack/andraste.fuckbgp.com/3l6xcx4veuz2v>
 * Packet Herders <https://bsky.app/starter-pack-short/TLhL2HV>
 
+## News
+
+* Tech Journalists <https://bsky.app/starter-pack/niallfirth.bsky.social/3lavll7orvm2q>
+
 ## Observability
 
 * Prometheus  <https://bsky.app/starter-pack/metalmatze.de/3la6tkzai4b2n>
@@ -190,6 +215,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ## Platforms
 
 * Apple Developers <https://bsky.app/starter-pack/mergesort.me/3l7chd3ifs42f>
+* Bluesky team, dev, tips, tools <https://bsky.app/starter-pack/cecallihelper.bsky.social/3laqvysnuls2x>
 * Ghost Devs <https://bsky.app/starter-pack/ghost.org/3l7fhntjiw32n>
 * AtProto Devs <https://go.bsky.app/QfxgKsf>
 * Protocol Pals (atproto) <https://bsky.app/starter-pack/samuel.bsky.team/3kztso5fnic24>
@@ -226,6 +252,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ### Java
 
+* GraalVM Team <https://bsky.app/starter-pack/alina-yurenko.bsky.social/3lao6szrmiz2x>
 * Java Champions <https://bsky.app/starter-pack/chrzanowski.info/3la5a2ojmnw2r>
 * Java and JVM <https://bsky.app/starter-pack-short/F7m9rBy>
 
@@ -237,6 +264,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Kotlin Multiplatform <https://bsky.app/starter-pack-short/2oR84o6>
 
+### Nix/NixOS
+
+* Nix/NixOS <https://bsky.app/starter-pack/handle.invalid/3lau2ctouup2x>
+
 ### PowerShell
 
 * PowerShell Community <https://go.bsky.app/9ozmoAY>
@@ -246,6 +277,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Python <https://bsky.app/starter-pack/savannah.dev/3l7y3twh7xm2l>
 * Pyladies <https://bsky.app/starter-pack/cosima.bsky.social/3l7zmdn5tsp26>
 * Pythonistas <https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z>
+* Python Core Team <https://bsky.app/starter-pack/hugovk.bsky.social/3lat5bsw4ar2h>
 * Python Software Foundation and Friends <https://bsky.app/starter-pack/monorepo.bsky.social/3lacjuhrjlp2o>
 * Django web framework <https://bsky.app/starter-pack/adamghill.com/3l6yeskolfm27>
 * Python Core Developers <https://bsky.app/starter-pack/hugovk.bsky.social/3lat5bsw4ar2h>
@@ -267,6 +299,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### Typescript
 
 * Effect-TS Community <https://bsky.app/starter-pack/maikelkrause.bsky.social/3lalqx3qepb2r>
+* EU Digital Policy & Tech Regulation <https://bsky.app/starter-pack/netopia.bsky.social/3lavvqswa5723>
 * OSS Typescript Maintainers <https://bsky.app/starter-pack-short/84ChefN>
 * Typescript and Static Analysis <https://bsky.app/starter-pack/joshuakgoldberg.com/3la7gv7wa4722>
 
@@ -291,9 +324,12 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Authentication/Identity Folks <https://bsky.app/starter-pack/mooreds.com/3l7jlxbxam32s>
 * Identity and Access Management <https://bsky.app/starter-pack/rafikidev.bsky.social/3l7ja7gdbdh2k>
 * Hackers <https://go.bsky.app/NRP3ecE>
+* Hackers & Phreakers <https://bsky.app/starter-pack/lucky225.bsky.social/3lavihs56zq2w>
 * Infosec Bluesky <https://bsky.app/starter-pack/stonking.com/3l7trhx5kbr2u>
 * Cyber starter Pack <https://bsky.app/starter-pack/patrickhowelloneill.com/3l3ef5norol2u>
+* MacAdmins <https://bsky.app/starter-pack/scriptingosx.bsky.social/3layijhvkt42x>
 * Security and Security Adjacent <https://bsky.app/starter-pack/sanitybit.com/3l6mkk23cpn24>
+* Web Application Security <https://bsky.app/starter-pack/mccune.org.uk/3layremkrkz2i>
 
 ## Software Dev
 
@@ -326,6 +362,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Founders and Bootstrappers <https://bsky.app/starter-pack/joshuawood.net/3l72a55j7kq2s>
 * Indie Saas Founders <https://bsky.app/starter-pack/berksky.bsky.social/3l7dbwlvzap2z>
 * Indie Founders <https://bsky.app/starter-pack-short/T3kv9A8>
+* Full-time bootstrapped tech founders <https://bsky.app/starter-pack/ruurtjan.bsky.social/3lavnclprgm2r>
 
 ## Systems Engineering
 
@@ -343,8 +380,13 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Pluralsight Authors <https://go.bsky.app/8MFcCVm>
 
+## Virtual Reality
+
+* VR Game Developers and Publishers <https://bsky.app/starter-pack/liv-lagger.bsky.social/3layl2af2kk2a>
+
 ## WWW
 
+* Dev Toolkit <https://bsky.app/starter-pack/xzilja.bsky.social/3laq7ngknar2r>
 * Sia's 11ty <https://bsky.app/starter-pack/sia.codes/3l7svus2jcz2b>
 * Sia's Frontend Web Performance <https://bsky.app/starter-pack-short/RVWSVqe>
 * APIs you won't hate <https://bsky.app/starter-pack-short/BNkzSpM>
@@ -358,6 +400,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Retro Webdev <https://bsky.app/starter-pack/benv.ca/3l7y3p7q2vs2q>
 * Thead of Frontend Starter Packs <https://go.bsky.app/hLveAd>
 * Web Design Inspiration <https://bsky.app/starter-pack/matamo.dev/3la7fif4zh42y>
+
+### WWW-related News
+
+* Frontend Magazines <https://bsky.app/starter-pack/css-tricks.com/3la2jb3dtnv2h>
 
 ### React
 
