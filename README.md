@@ -278,6 +278,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Python Core Team <https://bsky.app/starter-pack/hugovk.bsky.social/3lat5bsw4ar2h>
 * Python Software Foundation and Friends <https://bsky.app/starter-pack/monorepo.bsky.social/3lacjuhrjlp2o>
 * Django web framework <https://bsky.app/starter-pack/adamghill.com/3l6yeskolfm27>
+* Python Core Developers <https://bsky.app/starter-pack/hugovk.bsky.social/3lat5bsw4ar2h>
 
 ### Ruby and Rails
 
