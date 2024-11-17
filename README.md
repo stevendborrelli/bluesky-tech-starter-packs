@@ -31,6 +31,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [DevEx \& UI](#devex--ui)
 * [GameDev](#gamedev)
 * [Kubernetes \& Cloud Native](#kubernetes--cloud-native)
+* [History of Technology](#history-of-technology)
 * [Infrastructure as Code](#infrastructure-as-code)
 * [Marketing/Growth/DevRel](#marketinggrowthdevrel)
 * [Mobile](#mobile)
@@ -118,7 +119,9 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Black Tech Peeps <https://bsky.app/starter-pack/aliafonzy.bsky.social/3l6xfjc56jc2m>
 * Black Tech Voices <https://bsky.app/starter-pack/nerdyandnoteworthy.bsky.social/3law262cfob2y>
 * Black Women in Tech <https://bsky.app/starter-pack/minamarkh.am/3laqyfejjzf2l>
+* Non-binary technologists <https://bsky.app/starter-pack/annthurium.bsky.social/3lb3qde3b6o2j>
 * Women in Tech <https://bsky.app/starter-pack/annaspies.bsky.social/3l7qqknfnm72n>
+* Women in Tech (Salesforce-focused) <https://bsky.app/starter-pack/salesforcestacey.bsky.social/3lb35aj2oyk2w>
 
 ### Africa
 
@@ -127,10 +130,14 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### Europe
 
 * London Tech Community <https://bsky.app/starter-pack/hellonehha.bsky.social/3lavoqqajkt23>
+* Netherlands Tech Community <https://bsky.app/starter-pack/danielfos.co/3lay66ikx3525>
 
 ### North America
 
 * Kansas City Tech Community <https://bsky.app/starter-pack/jerdog.dev/3lavvs6vyuj2j>
+* Minnesota Tech <https://bsky.app/starter-pack/toddhgardner.com/3lazwzq2yxi2g>
+* Texas Tech <https://bsky.app/starter-pack/jade0x.dev/3laymntlqbc23>
+* Toronto Tech Community <https://bsky.app/starter-pack/benv.ca/3lax54fdgjj22>
 
 ## Corporate Community Programs
 
@@ -142,6 +149,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * All Things Open 2024 speakers <https://bsky.app/starter-pack/justingarrison.com/3l74pjn6n3d26>
 * Github Stars #githubuniverse <https://bsky.app/starter-pack/jesstemporal.com/3l7ljmricf22o>
 * Nodeconf EU 2024 <https://bsky.app/starter-pack/ruyadorno.bsky.social/3l7xylnqftc2d>
+* Technical Conferences <https://bsky.app/starter-pack/iamrajiv.bsky.social/3laxkxyprg32a>
 
 ## DBs, BI, & Geo
 
@@ -175,6 +183,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * CNCF Platform Working Group <https://bsky.app/starter-pack/me.nzen.ski/3la7hu6g3aw2d>
 * Kubernetes Engineering <https://bsky.app/starter-pack/ahmet.dev/3l7tozhy6s42f>
 
+## History of Technology
+
+* History of Technology <https://bsky.app/starter-pack/karstenuhl.bsky.social/3lb3sv3hgmz2i>
+
 ## Infrastructure as Code
 
 * Hashicorp Ambassadors <https://go.bsky.app/FEpXrbj>
@@ -200,7 +212,9 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## News
 
+* EU Tech Journalists <https://bsky.app/starter-pack/cdteu.bsky.social/3layaqy7snj2l>
 * Tech Journalists <https://bsky.app/starter-pack/niallfirth.bsky.social/3lavll7orvm2q>
+* Tech News and Opinions <https://bsky.app/starter-pack/mattkeil.com/3law3bhnotm2k>
 
 ## Observability
 
@@ -310,6 +324,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Critical Tech <https://bsky.app/starter-pack/parismarx.bsky.social/3lamkmrv72w2q>
 * Data Journalism <https://bsky.app/starter-pack/martinstabe.bsky.social/3l373eyo7zq2u>
 * Open Data <https://bsky.app/starter-pack/go-opendata.bsky.social/3laof5cm67q2m>
+* Philosophy of Technology <https://bsky.app/starter-pack/ashleyshoo.bsky.social/3lazzlsgdkj2u>
 * Privacy by Design <https://bsky.app/starter-pack/stribs.bsky.social/3laokvt2u7u24>
 * Public Interest Technology <https://bsky.app/starter-pack/merbroussard.bsky.social/3lamcen2niz2x>
 * Tech Skeptics <https://bsky.app/starter-pack/markscrivens.bsky.social/3landpgddiv2l>
