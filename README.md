@@ -295,6 +295,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Python Software Foundation and Friends <https://bsky.app/starter-pack/monorepo.bsky.social/3lacjuhrjlp2o>
 * Django web framework <https://bsky.app/starter-pack/adamghill.com/3l6yeskolfm27>
 * Python Core Developers <https://bsky.app/starter-pack/hugovk.bsky.social/3lat5bsw4ar2h>
+* Python authors, speakers, and teachers <https://bsky.app/starter-pack/lernerpython.com/3latidjifnf2l>
 
 ### Ruby and Rails
 
