@@ -346,6 +346,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * MacAdmins <https://bsky.app/starter-pack/scriptingosx.bsky.social/3layijhvkt42x>
 * Security and Security Adjacent <https://bsky.app/starter-pack/sanitybit.com/3l6mkk23cpn24>
 * Web Application Security <https://bsky.app/starter-pack/mccune.org.uk/3layremkrkz2i>
+* Cybersecurity Starter Pack <https://bsky.app/starter-pack/0x0.boo/3lb4gtjtfq32i>
 
 ## Software Dev
 
