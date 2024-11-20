@@ -360,7 +360,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## Software Engineering
 
-* Tech Mangers <https://bsky.app/profile/pelayoarbues.com/post/3l7nx4mbjta2s>
+* Tech Managers <https://bsky.app/profile/pelayoarbues.com/post/3l7nx4mbjta2s>
 
 ## Stats/Bio/R
 
