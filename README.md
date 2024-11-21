@@ -301,6 +301,8 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Ruby and Rails <https://bsky.app/starter-pack/joshuawood.net/3kw3olx5gf72m>
 * Built with Ruby and Rails <https://bsky.app/starter-pack/bradgessler.com/3lajohae7te2c>
+* Ruby Contributors <https://bsky.app/starter-pack/rowen.willabus.com/3lbdwu5kve323>
+* Rails Contributors <https://bsky.app/starter-pack/rowen.willabus.com/3lb3p673jqq27>
 
 ### Rust
 
