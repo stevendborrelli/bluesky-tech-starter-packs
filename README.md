@@ -76,14 +76,12 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## AI, ML & Data
 
-* AI Engineers <https://go.bsky.app/E8JcNAk>
 * AI ML data frens <https://bsky.app/starter-pack/nimobeeren.com/3l7i7ciwnt22v>
 * AI & Data <https://bsky.app/starter-pack/pelayoarbues.com/3l7gammw22z2c>
 * Health, AI, and Informatics <https://bsky.app/starter-pack-short/r5eVvT>
 * Nice Data People <https://bsky.app/starter-pack/arynn.bsky.social/3l7ln7qrrj22b>
 * Google DeepMind <https://bsky.app/starter-pack/sharky6000.bsky.social/3l7kt6xwjqe2n>
 * ML/AI Researchers <https://bsky.app/starter-pack/pelayoarbues.com/3l7isybcp522s>
-* AI Researchers <https://go.bsky.app/E8JcNAk>
 * Data Ladies <https://go.bsky.app/5388qNY>
 * RecSys <https://bsky.app/starter-pack-short/F7m9rBy>
 * Robotics & AI <https://bsky.app/starter-pack/cpaxton.bsky.social/3lampx4vqrv24>
