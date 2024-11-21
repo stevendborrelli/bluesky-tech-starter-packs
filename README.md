@@ -44,6 +44,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * [Programming Languages](#programming-languages)
   * [Clojure](#clojure)
   * [.Net](#net)
+  * [Dart](#dart)
   * [Elixir](#elixir)
   * [Elm](#elm)
   * [Functional Programming](#functional-programming)
@@ -244,6 +245,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### Clojure
 
 * Bluesky Clojure Community <https://bsky.app/starter-pack-short/Mj51mWX>
+
+### Dart
+
+* Flutter Dev Starter Pack <https://go.bsky.app/EzEZLU7>
 
 ### .Net
 
