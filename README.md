@@ -252,6 +252,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 * Elixir devs <https://bsky.app/starter-pack-short/HL9mNDS>
 
+### Elm
+
+* Elm Community <https://bsky.app/starter-pack/taylor.town/3lbhxsc4j252d>
+
 ### Functional Programming
 
 * Functional Programming <https://go.bsky.app/Tkj4hAZ>
