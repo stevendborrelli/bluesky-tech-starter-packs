@@ -57,6 +57,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
   * [Ruby and Rails](#ruby-and-rails)
   * [Rust](#rust)
   * [Scala](#scala)
+  * [Swift](#swift)
   * [Typescript](#typescript)
 * [Policy/Public Interest/Criticism](#policypublic-interestcriticism)
 * [Retro Computing](#retro-computing)
@@ -315,6 +316,10 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### Scala
 
 * Scala <https://bsky.app/starter-pack/salarrahmanian.bsky.social/3laq4c2o4a42a>
+
+### Swift
+
+* Swift / iOS Community <https://bsky.app/starter-pack/peterfriese.dev/3lbhdr4ntnz2s>
 
 ### Typescript
 
