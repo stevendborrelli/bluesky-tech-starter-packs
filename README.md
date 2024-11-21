@@ -45,6 +45,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
   * [Clojure](#clojure)
   * [.Net](#net)
   * [Elixir](#elixir)
+  * [Elm](#elm)
   * [Functional Programming](#functional-programming)
   * [Go](#go)
   * [Java](#java)
