@@ -2,7 +2,7 @@
 
 A list of tech-related Bluesky starter packs compiled by Steven Borrelli <https://bsky.app/profile/stefanoborrelli.bsky.social>.
 
-Looking for more stater packs?
+Looking for more starter packs?
 
 You can search for starter packs at the [Bluesky Directory](https://blueskydirectory.com/starter-packs/all).
 
