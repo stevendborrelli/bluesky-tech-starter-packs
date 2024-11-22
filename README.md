@@ -230,6 +230,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ## Platforms
 
 * Apple Developers <https://bsky.app/starter-pack/mergesort.me/3l7chd3ifs42f>
+* Indie Apple Platform Developers <https://bsky.app/starter-pack/jeehut.bsky.social/3lbhexvpgvx27>
 * Bluesky team, dev, tips, tools <https://bsky.app/starter-pack/cecallihelper.bsky.social/3laqvysnuls2x>
 * Ghost Devs <https://bsky.app/starter-pack/ghost.org/3l7fhntjiw32n>
 * AtProto Devs <https://go.bsky.app/QfxgKsf>
