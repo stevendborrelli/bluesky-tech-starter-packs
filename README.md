@@ -287,6 +287,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 ### Kotlin
 
 * Kotlin Multiplatform <https://bsky.app/starter-pack-short/2oR84o6>
+* Kotlin Folks <https://go.bsky.app/BV8HXZ1>
 
 ### Nix/NixOS
 
