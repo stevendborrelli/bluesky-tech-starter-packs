@@ -402,7 +402,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Infrastructure Engineers  <https://bsky.app/starter-pack/chris.blue/3l7cfdtapwz2l>
 * Distributed Systems <https://bsky.app/starter-pack/embano1.mgasch.com/3l7i37p3prf2p>
 * eBPF <https://bsky.app/starter-pack-short/GgS24Fv>
-* Observability <https://bsky.app/starter-pack/brancz.bsky.social/3l7j5vpnytv26>
+* Observability <https://bsky.app/starter-pack/brancz.com/3l7j5vpnytv26>
 * Resilience Engineering <https://bsky.app/starter-pack/vonneudeck.com/3l7m7hb7fnp24>
 
 ## Tech Writing
