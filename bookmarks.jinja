@@ -1,0 +1,20 @@
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<TITLE>Bookmarks</TITLE>
+<H1>Bookmarks</H1>
+<DL><p>
+    <DT><H3 PERSONAL_TOOLBAR_FOLDER="true">Bookmarks Bar</H3>
+    <DL><p>
+        <DT><H3>Tech Starter Packs</H3>
+        <DL><p>
+            {% for category, items in categories.items() %}
+            <DT><H3>{{ category }}</H3>
+            <DL><p>
+            {% for item in items %}
+                <DT><A HREF="{{ item.url }}">{{ item.title }}</A>
+            {% endfor %}
+            </DL><p>
+            {% endfor %}
+        </DL><p>
+    </DL><p>
+</DL><p>
