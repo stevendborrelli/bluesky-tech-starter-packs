@@ -341,7 +341,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Counter Tech Power Grabs <https://bsky.app/starter-pack/remmelt.bsky.social/3lanjabtnk22m>
 * Critical Tech <https://bsky.app/starter-pack/parismarx.bsky.social/3lamkmrv72w2q>
 * Data Journalism <https://bsky.app/starter-pack/martinstabe.bsky.social/3l373eyo7zq2u>
-* Open Data <https://bsky.app/starter-pack/go-opendata.ca/3laof5cm67q2m>
+* Open Data by GO Open Data Association <https://bsky.app/starter-pack/go-opendata.ca/3laof5cm67q2m>
 * Philosophy of Technology <https://bsky.app/starter-pack/ashleyshoo.bsky.social/3lazzlsgdkj2u>
 * Privacy by Design <https://bsky.app/starter-pack/stribs.bsky.social/3laokvt2u7u24>
 * Public Interest Technology <https://bsky.app/starter-pack/merbroussard.bsky.social/3lamcen2niz2x>
