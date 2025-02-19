@@ -195,6 +195,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## Marketing/Growth/DevRel
 
+* SEO Insights <https://go.bsky.app/FMdsCa3>
 * Tech Marketing <https://bsky.app/starter-pack-short/VrJki2f>
 * DevRel/DX Engineers & Developer Advocates <https://bsky.app/starter-pack/ladyofcode.com/3l7l3savfr62w>
 * DevRel <https://bsky.app/starter-pack-short/3vZbY9h>
@@ -395,6 +396,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 
 ## Startups
 
+* Bootstrapped & Building <https://go.bsky.app/GDJL5u2>
 * Founders and Bootstrappers <https://bsky.app/starter-pack/joshuawood.net/3l72a55j7kq2s>
 * Indie Saas Founders <https://bsky.app/starter-pack/berksky.bsky.social/3l7dbwlvzap2z>
 * Indie Founders <https://bsky.app/starter-pack-short/T3kv9A8>
