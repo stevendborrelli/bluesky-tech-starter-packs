@@ -359,7 +359,6 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Identity and Access Management (IAM) <https://bsky.app/starter-pack/jimmy.zelinskie.com/3l7j4rfb3yy2c>
 * Hackers <https://go.bsky.app/NRP3ecE>
 * Hackers & Phreakers <https://bsky.app/starter-pack/lucky225.bsky.social/3lavihs56zq2w>
-* Infosec Bluesky <https://bsky.app/starter-pack/stonking.com/3l7trhx5kbr2u>
 * Cyber starter Pack <https://bsky.app/starter-pack/patrickhowelloneill.com/3l3ef5norol2u>
 * MacAdmins <https://bsky.app/starter-pack/scriptingosx.bsky.social/3layijhvkt42x>
 * Security and Security Adjacent <https://bsky.app/starter-pack/sanitybit.com/3l6mkk23cpn24>
