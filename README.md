@@ -235,6 +235,7 @@ Want to add a link or reorganize the whole thing? See [CONTRIBUTING.md](CONTRIBU
 * Ghost Devs <https://bsky.app/starter-pack/ghost.org/3l7fhntjiw32n>
 * AtProto Devs <https://go.bsky.app/QfxgKsf>
 * Protocol Pals (atproto) <https://bsky.app/starter-pack/samuel.bsky.team/3kztso5fnic24>
+* Tools for a tidier Bluesky <https://go.bsky.app/2n34DsK>
 
 ## Platform Engineering & Devops
 
